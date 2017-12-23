@@ -1,0 +1,19 @@
+The Mean of the Review Attribute is : 
+0.764279399974
+The Standard Deviation of the Review Attribute is : 
+0.42444980071
+Split is being done into positive and negative
+Done
+55558
+[('not', 80912), ('baby', 70749), ('one', 66194), ('love', 52997), ('great', 47666), ('like', 45664), ('would', 45661), ('use', 42480), ('seat', 39416), ('get', 38306), ('month', 34560), ('time', 33391), ('little', 33166), ('easy', 32862), ('old', 31945), ('well', 30745), ('product', 30585), ('really', 28026), ('also', 27756), ('son', 26691), ('bought', 25451), ('work', 25281), ('no', 24775), ('good', 23749), ('much', 23651)]
+Number of Correct
+120091
+Accuracy is 
+82.29582116963392
+Done
+27828
+[('not', 20502), ('baby', 17687), ('one', 16201), ('love', 13132), ('great', 11756), ('would', 11417), ('like', 11267), ('seat', 10442), ('use', 10437), ('get', 9549), ('month', 8510), ('little', 8383), ('time', 8267), ('easy', 8255), ('old', 7899), ('well', 7800), ('product', 7426), ('really', 6923), ('also', 6870), ('son', 6468), ('work', 6259), ('bought', 6186), ('no', 6051), ('good', 5950), ('much', 5944)]
+Number of Correct
+27549
+Accuracy is 
+75.56780776826861

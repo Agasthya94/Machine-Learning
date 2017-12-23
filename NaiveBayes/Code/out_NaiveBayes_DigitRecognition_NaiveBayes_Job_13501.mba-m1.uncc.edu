@@ -1,0 +1,12 @@
+######### No Validation applied #########
+Accuracy on the Training Data set is :
+91.8911849333
+Accuracy on the Testing Dataset is : 
+88.9259877574
+######### 70 - 30 Validation #########
+Accuracy on the Training Data set is :
+92.1936327955
+Accuracy on the Validation Data set is : 
+91.4379084967
+Accuracy on the Testing Dataset is : 
+89.1485809683

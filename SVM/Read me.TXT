@@ -1,0 +1,23 @@
+###### Software Used #########
+This implementation is written in Python (version 3.6) 
+Software Used Anaconda (httpswww.continuum.iodownloads)
+
+
+###### Libraries Used #########
+The following libraries of python have been used in the programs
+Scikit-learn , nltk, pandas, csv, numpy.
+Note
+To run the software after installation, open command prompt and type  jupyter notebook. 
+Then a window will be opened in your browser. Create a new folder and upload the following files along with the dataset given.
+
+####### Implementation #############
+
+##### SVM Algorithm on Digit Recognition Dataset #####
+
+File Used SL_SVM_DigitRecognition.ipynb
+To run this file open the above file in the notebook and Run all the cells.
+
+##### SVM Algorithm on Amazon Reviews Sentiment Analysis Dataset #####
+
+File Used SL_SVM_AmazonReview.py
+To run this file copy the file to cluster and run it
